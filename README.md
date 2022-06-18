@@ -1,2 +1,2 @@
 # Univ.PL
-University Homework
+University Programming Language Class - C++ -
